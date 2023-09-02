@@ -1,0 +1,15 @@
+﻿# ASSETS USED IN GAME0 PROJECT
+
+## Images
+- Content/dvd_quest.png: Created by Aidan Harries using Aseprite.
+  - Note: The image is inspired by the DVD logo, which is a trademark of DVD Format/Logo Licensing Corporation (DVD FLLC).
+
+- Content/dvd_quest_menu.png: Created by Aidan Harries using Aseprite.
+  - Note: The image is inspired by the DVD logo, which is a trademark of DVD Format/Logo Licensing Corporation (DVD FLLC).
+
+- Content/button_animation.png: Created by Aidan Harries using Aseprite.
+
+## Fonts
+- Content/LanaPixel.ttf: LanaPixel font created by eishiya.
+  - License: Open Font License (OFL)
+  - Source: https://opengameart.org/content/lanapixel-localization-friendly-pixel-font

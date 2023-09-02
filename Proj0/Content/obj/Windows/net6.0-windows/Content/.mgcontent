@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj0/Proj0/Content/button_animation.png</File>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj0/Proj0/Content/dvd_quest.png</File>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj0/Proj0/Content/dvd_quest_menu.png</File>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj0/Proj0/Content/LanaPixel.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
